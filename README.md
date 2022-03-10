@@ -17,7 +17,7 @@ Do all your work in this subbranch and then make a pull request to your branch. 
 >***Be sure you are not making pull request agains `main` branch***
 5. Add your mentor as a reviewer to your pull_request [Adding reviewers to Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review)
 
-###This course contains Lessons that will guide you through next topics
+### This course contains Lessons that will guide you through next topics
 
 | Lesson Number |      Lesson Name       | Lesson Description                                                                                                                                                                             |
 |:-------------:|:----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
